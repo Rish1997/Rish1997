@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Rishabh Chaturvedi! 👋</h1>
 
-<a href="https://github.com/Rish1997">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rish1997&show=prs_merged,prs_merged_percentage&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish1997&theme=transparent" />
+<a href="https://github.com/rishabh-chaturvedi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabh-chaturvedi&show=prs_merged,prs_merged_percentage&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-chaturvedi&theme=transparent" />
 </a>
 
 <h3>🚀 Passionate Full Stack Developer</h3>
@@ -52,4 +52,4 @@
 
 <hr>
 
-<p>Feel free to explore my repositories and connect with me on <a href="https://linkedin.com/in/chaturvedirishabh91">LinkedIn</a> or <a href="https://github.com/Rish1997">GitHub</a>. Let's build something amazing together!</p>
+<p>Feel free to explore my repositories and connect with me on <a href="https://linkedin.com/in/chaturvedirishabh91">LinkedIn</a> or <a href="https://github.com/rishabh-chaturvedi">GitHub</a>. Let's build something amazing together!</p>
